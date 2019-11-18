@@ -1,0 +1,11 @@
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\bin\Debug\netcoreapp2.1\YUCCACheck.deps.json
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\bin\Debug\netcoreapp2.1\YUCCACheck.runtimeconfig.json
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\bin\Debug\netcoreapp2.1\YUCCACheck.runtimeconfig.dev.json
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\bin\Debug\netcoreapp2.1\YUCCACheck.dll
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\bin\Debug\netcoreapp2.1\YUCCACheck.pdb
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\obj\Debug\netcoreapp2.1\YUCCACheck.csprojAssemblyReference.cache
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\obj\Debug\netcoreapp2.1\YUCCACheck.csproj.CoreCompileInputs.cache
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\obj\Debug\netcoreapp2.1\YUCCACheck.AssemblyInfoInputs.cache
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\obj\Debug\netcoreapp2.1\YUCCACheck.AssemblyInfo.cs
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\obj\Debug\netcoreapp2.1\YUCCACheck.dll
+C:\Users\droot\Documents\Junior Year Fall\Algorithms and Data Structures\YUCCA-Graph-Check\YUCCACheck\YUCCACheck\obj\Debug\netcoreapp2.1\YUCCACheck.pdb
